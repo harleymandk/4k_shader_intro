@@ -1,5 +1,7 @@
 ///  My 4K Shader intro... for Fun - not profit !! 
 //  Missing something on the blue screen ;-)
+// This is tested / Coded on http://glslsandbox.com
+//  please convert it to shader from Webgl before use!
 //   Harley  //
 #ifdef GL_ES
 precision mediump float;
